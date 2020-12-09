@@ -13,7 +13,7 @@
 		"getenv": "^0.7.0",
 		"hbs": "^4.0.1",
 		"helmet": "^3.6.1",
-		"node-fetch": "^1.7.0",
+		"node-fetch": "^2.6.1",
 		"schibsted-core-sdk-node": "*",
 		"schibsted-identity-sdk": "*"
 	},
